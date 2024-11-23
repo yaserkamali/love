@@ -1,6 +1,6 @@
-vless://750cffdf-952d-43dc-97a1-6e1fe08bdf5f@213.176.127.25:28706?type=tcp&security=reality&pbk=rENtnP1gXvy_IiOUaVxg37wNH_vjSWiCVfx35Q71qg8&fp=random&sni=yahoo.com&sid=b847&spx=%2F#r1-s1
-vless://6656e6b7-b564-47d8-8156-7cadcd2db450@213.176.127.25:49194?type=tcp&security=reality&pbk=zXiA4fxNjHI9KAC20oj6sPcwJkoa06v8_VJje6jCJTI&fp=random&sni=ftp.debian.org&sid=758a840dd711&spx=%2F#r2-s2
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U2docXlLUDh5VVd1bDhwMU9LbDJpTy9zcnQzYnQ0QWt2elBCVHpiUE5Laz06eENLeGlWNmd5V2tpMDZhRTQyNkhXRU5Eb1JEZDNsc2E5SjNQK1E1bENvdz0@213.176.127.25:48644?type=tcp#shadow-s4
-vless://ecaae2c4-f5af-4555-9261-d6fef755cd09@213.176.127.25:443?type=tcp&security=reality&pbk=EMRwHZA8Fi2bEfvfgwzYx9Qacx34TtlpPKos_AarOys&fp=random&sni=gsmarena.com&sid=9ef26b2c87&spx=%2F#r3-s3
-vless://7009cafd-ecf2-46a2-a856-bcad6a1a1907@213.176.127.25:29615?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=game.gameserveryas.ir#v-s6
-vless://9acda599-270e-4a36-9399-590a62bd5ac0@213.176.127.25:20869?type=ws&path=%2Fws&host=game.gameserveryas.ir&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=game.gameserveryas.ir#v2-s7
+vless://b63be9e7-f9cd-4b28-a266-1b9150f88013@213.176.127.40:13760?type=tcp&security=reality&pbk=ojXhj_rD0v-JjiJdileYLJkIQYiTyEmzQvjwFUwJh1w&fp=random&sni=yahoo.com&sid=4f3460a9&spx=%2Frealy#rr1-s1
+vless://995bb2ad-64cd-417a-a930-4b0f6022e1ed@213.176.127.40:46349?type=tcp&security=reality&pbk=2EKn3HHFkvT_cOcmMQyQMw9EfrcXgz47M0u3KVIqWGI&fp=random&sni=ftp.debian.org&sid=e8cbe82f76a22711&spx=%2Frealyy#rr2-s2
+vless://a360f4d1-2aa7-4ebe-9b9c-1db133da5668@213.176.127.40:51725?type=tcp&security=reality&pbk=W2TOqqP2KCto64oFwufyNGdMpvLnrza75Jl8MPF2pyk&fp=random&sni=gsmarena.com&sid=16d4&spx=%2Freallyyy#rr3-s3
+vless://e4f57185-3113-4e42-a60b-7435254bc1c8@213.176.127.40:25657?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fr.gameserveryas.ir#vv1-s4
+vless://707d697b-781a-4d11-809f-79c268f6f6c4@213.176.127.40:27075?type=ws&path=%2Fgameserveryas.ir12345&host=fr.gameserveryas.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fr.gameserveryas.ir#vv2-s5
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bmZEYWNYaWswVTBWUVpvYXJ1MkFEMFhGdEtSMUxvZ05qT2JuV2xXNHNEUT06dkdVYWJSQit0RExTY205bW5pVmNZU3RucHdMam9pTVBNQUFSY0hYTXBMQT0@213.176.127.40:35086?type=tcp#shadow-s6
