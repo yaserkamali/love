@@ -4,3 +4,4 @@ vless://a360f4d1-2aa7-4ebe-9b9c-1db133da5668@213.176.127.40:51725?type=tcp&secur
 vless://e4f57185-3113-4e42-a60b-7435254bc1c8@213.176.127.40:25657?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fr.gameserveryas.ir#vv1-s4
 vless://707d697b-781a-4d11-809f-79c268f6f6c4@213.176.127.40:27075?type=ws&path=%2Fgameserveryas.ir12345&host=fr.gameserveryas.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fr.gameserveryas.ir#vv2-s5
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bmZEYWNYaWswVTBWUVpvYXJ1MkFEMFhGdEtSMUxvZ05qT2JuV2xXNHNEUT06dkdVYWJSQit0RExTY205bW5pVmNZU3RucHdMam9pTVBNQUFSY0hYTXBMQT0@213.176.127.40:35086?type=tcp#shadow-s6
+vless://e24758a8-24df-4ce8-8a9a-9f3ab6dd3613@213.176.127.40:2087?type=splithttp&path=%2Fgame%3D2096&host=fr.gameserveryas.ir&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=fr.gameserveryas.ir#https-s7
